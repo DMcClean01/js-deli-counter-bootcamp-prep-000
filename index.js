@@ -4,7 +4,8 @@
 // }
 
 function takeANumber(katzDeliLine) {
-  katzDeliLine.;
+  if (katzDeliLine.length )
+  
   return `You are number ${katzDeliLine.length} in line.`;
 }
 
